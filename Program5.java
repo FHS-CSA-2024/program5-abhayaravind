@@ -1,5 +1,5 @@
 //import stuff here?
-import java,util.scanner;
+import java,util.Scanner;
 //Your code here
 public class Program5 {
   public static void main (String[] args) {
